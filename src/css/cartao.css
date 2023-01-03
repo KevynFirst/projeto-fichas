@@ -1,0 +1,99 @@
+.cartao-hero{
+    display: none;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+.cartao-hero .cartao-topo{
+    padding: 30px 40px 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    width: 430px;
+    height: 600px;
+}
+
+.cartao-hero .cartao-topo.romero{
+    background-image: url('../images/romero.jpg');
+}
+
+.cartao-hero .cartao-topo.kevyn{
+    background-image: url('../images/kevyn.png');
+}
+
+.cartao-hero .cartao-topo.alisson{
+    background-image: url('../images/alisson.jpg');
+}
+
+.cartao-hero .cartao-topo.joao{
+    background-image: url('../images/joao.jpg');
+}
+
+.cartao-hero .cartao-topo.amanda{
+    background-image: url('../images/amanda.jpg');
+}
+
+.cartao-hero .cartao-topo.debora{
+    background-image: url('../images/debora.png');
+}
+
+
+.cartao-hero .nome{
+    color: #d15759;
+    margin-bottom: 5px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.cartao-hero .tipo{
+    font-size: 12px;
+    background-color: #fff;
+    opacity: 0.7;
+    border-radius: 10px;
+    padding: 2px 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.cartao-hero .detalhes{
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.cartao-hero .cartao-informacoes{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    padding: 80px 30px 50px;
+    margin-top: -70px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.cartao-hero .cartao-informacoes h3{
+    font-size: 20px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #6B727A;
+}
+
+.cartao-hero .cartao-informacoes .status,
+.cartao-hero .cartao-informacoes .habilidades{
+    padding: 0 10px;
+    width: 180px;
+}
+
+.cartao-hero .cartao-informacoes .status ul li,
+.cartao-hero .cartao-informacoes .habilidades ul li{
+    border-bottom: 1px solid #C3C4C5;
+    padding: 0 0 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+
+.cartao-hero.aberto{
+    display: block;
+}
