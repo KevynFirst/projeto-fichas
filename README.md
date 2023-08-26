@@ -2,7 +2,7 @@
 
 <h2 align="center">📖Descrição</h2>
 
-<p align="center">Projeto baseado no evento MAPADEV WEEK do canal Dev em Dobro. Aqui eu utilizo HTML5, CSS3 e Javascript, 100% responsivo.</p>
+<p align="center">Projeto baseado no evento MAPADEV WEEK do canal Dev em Dobro. Aqui eu utilizo HTML5, CSS3 e Javascript, 100% responsivo. As imagens foram geradas na IA MidJorney</p>
 
 <h2 align="center">🖥Preview</h2>
 
