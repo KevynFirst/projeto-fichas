@@ -8,7 +8,7 @@
 
 <img src="src/images/bg0.jpg" alt="Preview desktop"></img>
 
-### Veja o projeto funcionando <a href="https://kevynfirst.github.io/projeto-fichas">aqui</a>. 👈
+#### Veja o projeto funcionando <a href="https://kevynfirst.github.io/projeto-fichas">aqui</a>. 👈
 
 
 
